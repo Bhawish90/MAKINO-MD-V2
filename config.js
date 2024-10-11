@@ -1,5 +1,8 @@
 const fs = require("fs");
-
+global.Owner = ["923123163055"]; 
+global.OwnerName = "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
+global.BotName = "♱MAKINO-MD-V2♱♡⃤";
+global.SESSION_ID = process.env.SESSION_ID || "" //session ID here taira_tech-Ps8GAQgA#J6AnTG-VzJjuqIwzcKG1qbU50Ju5zVFYGnrx3bw9baw
 //to enable function - true
 //to disable function - false
 //
